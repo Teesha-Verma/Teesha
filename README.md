@@ -34,7 +34,6 @@ With a deep desire to create intelligent, impactful systems, I’m learning to b
 
 ## 💼 Currently Working On
 
-- ✅ Solving DSA Problems in Java (Goal: 150+ LeetCode)
 - 🔧 Building Python mini-projects (ML + automation)
 - 🌱 Exploring the MERN stack
 - 🤖 Starting with scikit-learn + ML projects
@@ -43,7 +42,6 @@ With a deep desire to create intelligent, impactful systems, I’m learning to b
 
 ## 🛠 Upcoming Projects
 
-- 🧠 Fake News Detection (NLP)
 - 👁️‍🗨️ Deepfake Detection System (Video/Image)
 - 🗣️ AI-Powered Chatbot (LangChain)
 - 🎨 Generative Art Web App
@@ -55,10 +53,8 @@ With a deep desire to create intelligent, impactful systems, I’m learning to b
 
 - Crack internships in AI/ML or Backend  
 - Build and publish 3+ impactful AI projects  
-- Solve 150+ LeetCode problems in Java  
 - Publish my developer portfolio website  
 - Collaborate on open-source AI projects  
-- Get placed in a dream company (Google, Microsoft, NVIDIA)
 
 ---
 
